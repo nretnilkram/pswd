@@ -1,6 +1,4 @@
-<!-- badges: start -->
-  [![Go Build Status](https://github.com/nretnilkram/pswd/workflows/pswd/badge.svg)](https://github.com/nretnilkram/pswd/actions)
-<!-- badges: end -->
+[![pswd](https://github.com/nretnilkram/pswd/actions/workflows/pswd.yml/badge.svg)](https://github.com/nretnilkram/pswd/actions/workflows/pswd.yml)
 
 # pswd
 Password utility package
