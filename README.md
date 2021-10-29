@@ -1,5 +1,5 @@
 <!-- badges: start -->
-  [![Go Build Status](https://github.com/nretnilkram/pswd/workflows/Go/badge.svg)](https://github.com/nretnilkram/pswd/actions)
+  [![Go Build Status](https://github.com/nretnilkram/pswd/workflows/pswd/badge.svg)](https://github.com/nretnilkram/pswd/actions)
 <!-- badges: end -->
 
 # pswd
