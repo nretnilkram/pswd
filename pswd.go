@@ -83,5 +83,3 @@ func Password(length int, weight PasswordWeight) string {
 	}
 	return password
 }
-
-func main() {}
