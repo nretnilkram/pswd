@@ -1,5 +1,5 @@
 <!-- badges: start -->
-  [![R build status](https://github.com/nretnilkram/pswd/workflows/R-CMD-check/badge.svg)](https://github.com/nretnilkram/pswd/actions)
+  [![Go Build Status](https://github.com/nretnilkram/pswd/workflows/Go/badge.svg)](https://github.com/nretnilkram/pswd/actions)
 <!-- badges: end -->
 
 # pswd
