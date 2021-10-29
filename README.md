@@ -8,3 +8,8 @@ Password utility package
 ```
 go mod init github.com/nretnilkram/pswd
 ```
+
+# Install
+```
+go get github.com/nretnilkram/pswd@latest
+```
