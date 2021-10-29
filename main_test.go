@@ -1,4 +1,4 @@
-package pswd
+package main
 
 import (
 	"testing"

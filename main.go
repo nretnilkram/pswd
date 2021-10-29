@@ -1,4 +1,4 @@
-package pswd
+package main
 
 import (
 	"math/rand"
@@ -83,3 +83,5 @@ func Password(length int, weight PasswordWeight) string {
 	}
 	return password
 }
+
+func main() {}
